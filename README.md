@@ -1,156 +1,233 @@
 # <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=35&fontColor=ffffff&animation=twinkling" width="100%" />
 
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:45475a&height=120&section=header&text=&fontSize=0&animation=fadeIn)
 
-# **MUHAMMAD NADHIF FASICHUL ILMI** 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=500&color=74C0FC&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=%E2%9D%AF+nadhif%40universe%3A~%24+whoami;%3E+Muhammad+Nadhif+Fasichul+Ilmi" alt="Terminal Greeting" />
 
-<div style="font-size: 18px; margin: 20px 0;">
-  <strong>🚀 Software Engineer • 💻 Full-Stack Developer • ⚡ Code Architect</strong>
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1000&color=CDD6F4&center=true&vCenter=true&width=600&lines=Software+Engineer+%E2%80%A2+Computer+Engineering+Student;Building+scalable+web+applications+%26+modern+solutions;Turning+complex+problems+into+elegant+code)](https://git.io/typing-svg)
+
+<br>
+
+<div style="display: flex; justify-content: center; gap: 15px; margin: 20px 0;">
+  <img src="https://img.shields.io/badge/🎓_Student-Universitas_Indonesia-74C0FC?style=for-the-badge&labelColor=1e1e2e&color=74C0FC" />
+  <img src="https://img.shields.io/badge/📍_Based_in-Depok,_Indonesia-A6E3A1?style=for-the-badge&labelColor=1e1e2e&color=A6E3A1" />
+  <img src="https://img.shields.io/badge/💼_Focus-Full--Stack_Development-F9E2AF?style=for-the-badge&labelColor=1e1e2e&color=F9E2AF" />
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=32&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Tomorrow's+Web+Today+🌐;Crafting+Code+That+Matters+💡;Full-Stack+%7C+Frontend+%7C+Backend+🔥;Turning+Ideas+Into+Reality+✨;Clean+Code+%7C+Modern+Architecture+🏗️)](https://git.io/typing-svg)
+<br>
 
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nadhiefilmi&style=for-the-badge&color=00d9ff&labelColor=0d1117&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/nadhiefilmi?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/nadhiefilmi?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=TOTAL+STARS" />
-  <img src="https://img.shields.io/badge/FOCUS-Full--Stack+Development-00d9ff?style=for-the-badge&labelColor=0d1117" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+![Separator](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 </div>
 
----
-
-## 🎯 **ABOUT THE DEVELOPER**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
 
 <div align="center">
 
 ```typescript
-class Developer {
-  name: string = "Muhammad Nadhif Fasichul Ilmi";
-  title: string = "Computer Engineering Student";
-  location: string = "Depok, Indonesia 🇮🇩";
-  university: string = "Universitas Indonesia";
-  
-  readonly passions: string[] = [
-    "🛠️ Software Engineering",
-    "🌐 Full-Stack Web Applications", 
-    "🎨 Frontend Development",
-    "⚙️ Backend Architecture",
-    "📐 Clean Code & Best Practices"
-  ];
-  
-  currentMission(): string {
-    return "Building scalable web applications & modern software solutions 🚀";
-  }
-  
-  dailyRoutine(): string {
-    return "I turn coffee into code and ideas into web applications! ☕→💻";
-  }
-  
-  getMotivation(): string {
-    return "Code is poetry, debug is detective work, deploy is magic! ✨";
-  }
+interface Developer {
+  name: string;
+  role: string;
+  location: string;
+  education: string;
+  techStack: TechStack;
+  currentFocus: string[];
+  personalQuote: string;
 }
 
-const nadhif = new Developer();
-console.log(nadhif.currentMission());
+const nadhif: Developer = {
+  name: "Muhammad Nadhif Fasichul Ilmi",
+  role: "Software Engineer & Full-Stack Developer",
+  location: "Depok, Indonesia 🇮🇩",
+  education: "Computer Engineering @ Universitas Indonesia",
+  
+  techStack: {
+    frontend: ["React", "Vue.js", "TypeScript", "Tailwind CSS"],
+    backend: ["Node.js", "Laravel", "Express.js", "REST APIs"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    tools: ["Git", "Docker", "Postman", "Figma", "VS Code"]
+  },
+  
+  currentFocus: [
+    "🚀 Building scalable web applications",
+    "🎯 Modern software architecture",
+    "🔧 Clean code practices",
+    "📚 Continuous learning & innovation"
+  ],
+  
+  personalQuote: "Code is poetry, debug is detective work, deploy is magic! ✨"
+};
+
+// Current Status
+console.log(`🔥 ${nadhif.currentFocus.join(' • ')}`);
 ```
 
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiefilmi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Coding%20Journey" alt="Activity Graph" />
-</div>
+<br>
 
----
-
-## ⚡ **TECHNOLOGY**
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack & Expertise
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🎨 **Frontend Mastery**
+### Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,bootstrap,sass,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,js,html,css,tailwind,sass,vite&perline=9&theme=dark" />
 </p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
-### 🔧 **Backend Powerhouse**
+### Backend & Server-Side
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java,cpp&perline=7&theme=dark" />
 </p>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
 
-### 🗄️ **Database & Storage**
+### Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&perline=4&theme=dark" />
 </p>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### 🛠️ **Developer Tools**
+### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vite,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,linux&perline=7&theme=dark" />
 </p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
----
+<br>
 
-## 📊 **GITHUB ANALYTICS DASHBOARD**
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Interactive Tech Quiz
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadhiefilmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiefilmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
+<details>
+<summary><b>🎮 Think you know tech? Try this quick quiz!</b></summary>
 
-<br/><br/>
+<br>
+
+**Question 1:** What does REST stand for in web development?
+<details>
+<summary>Click for answer</summary>
+<b>Representational State Transfer</b> ✅
+<br><i>Great! REST is an architectural style for designing networked applications.</i>
+</details>
+
+**Question 2:** Which Hook is used for side effects in React?
+<details>
+<summary>Click for answer</summary>
+<b>useEffect()</b> ✅
+<br><i>Correct! useEffect handles side effects like API calls, subscriptions, etc.</i>
+</details>
+
+**Question 3:** What's the default port for MongoDB?
+<details>
+<summary>Click for answer</summary>
+<b>27017</b> ✅
+<br><i>Excellent! MongoDB runs on port 27017 by default.</i>
+</details>
+
+**Bonus:** What's my favorite programming paradigm?
+<details>
+<summary>Click for answer</summary>
+<b>Object-Oriented Programming with Functional touches</b> ✨
+<br><i>I love the structure of OOP combined with the elegance of functional programming!</i>
+</details>
+
+</details>
 
 </div>
 
----
+<br>
 
-## 🤝 **LET'S BUILD SOMETHING AMAZING TOGETHER**
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Analytics
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💬+Open+for+Collaboration;🚀+Always+Learning;💡+Let's+Create+Impact!" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadhiefilmi&show_icons=true&theme=catppuccin_mocha&hide_border=true&title_color=74C0FC&icon_color=74C0FC&text_color=CDD6F4&bg_color=1E1E2E&ring_color=74C0FC&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiefilmi&layout=compact&theme=catppuccin_mocha&hide_border=true&title_color=74C0FC&text_color=CDD6F4&bg_color=1E1E2E" />
 
-<br/><br/>
+<br><br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/muhammad-nadhif-fasichul-ilmi-98a592327)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nadhiefilmi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://munavale.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/nadhiefilmi)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhiefilmi&theme=catppuccin-mocha&hide_border=true&stroke=74C0FC&ring=74C0FC&fire=F38BA8&currStreakLabel=CDD6F4" />
 
-<br/>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiefilmi&theme=catppuccin-mocha&hide_border=true&bg_color=1E1E2E&color=CDD6F4&line=74C0FC&point=F38BA8&area=true&custom_title=📈%20Contribution%20Activity" />
 
-### 💫 *"Code is my canvas, logic is my brush, and innovation is my masterpiece"*
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=ffffff" width="100%" />
+<br>
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Current Status
+
+<div align="center">
+
+```bash
+nadhif@universe:~$ status --current
+┌─────────────────────────────────────────────────────────────────┐
+│  🚀 ACTIVELY DEVELOPING                                         │
+├─────────────────────────────────────────────────────────────────┤
+│  📚 Learning: Advanced React Patterns & System Design          │
+│  🔨 Building: Full-Stack Web Applications                      │
+│  🎯 Focus: Clean Architecture & Scalable Solutions             │
+│  ☕ Fuel: Coffee + Curiosity + Code                            │
+└─────────────────────────────────────────────────────────────────┘
+
+> Looking for collaboration opportunities? Let's build something amazing! ✨
+```
+
+</div>
+
+<br>
+
+## <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="35"> Let's Connect
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200px">
+<img src="https://img.icons8.com/nolan/64/linkedin.png"/>
+<br><strong>LinkedIn</strong>
+<br><a href="https://www.linkedin.com/in/muhammad-nadhif-fasichul-ilmi-98a592327">Connect with me</a>
+</td>
+<td align="center" width="200px">
+<img src="https://img.icons8.com/nolan/64/gmail.png"/>
+<br><strong>Email</strong>
+<br><a href="mailto:nadhiefilmi@gmail.com">nadhiefilmi@gmail.com</a>
+</td>
+<td align="center" width="200px">
+<img src="https://img.icons8.com/nolan/64/domain.png"/>
+<br><strong>Portfolio</strong>
+<br><a href="https://munavale.netlify.app/">Visit my work</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1e1e2e)](https://www.linkedin.com/in/muhammad-nadhif-fasichul-ilmi-98a592327)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1e1e2e)](mailto:nadhiefilmi@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1e1e2e)](https://munavale.netlify.app/)
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=74C0FC&center=true&vCenter=true&width=600&lines=%E2%9D%AF+nadhif%40universe%3A~%24+echo+%22Thanks+for+visiting!%22;%3E+Thanks+for+visiting!;%E2%9D%AF+nadhif%40universe%3A~%24+git+commit+-m+%22Building+the+future%22;%3E+Building+the+future..." />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=nadhiefilmi&style=for-the-badge&color=74C0FC&labelColor=1e1e2e&label=Profile+Views" />
+
+<br><br>
+
+*"In a world of algorithms and data structures, I choose to build bridges between ideas and implementations."*
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:45475a,50:313244,100:1e1e2e&height=120&section=footer&text=&fontSize=0&animation=fadeIn)
 
 </div>
