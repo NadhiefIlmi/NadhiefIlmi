@@ -1,7 +1,3 @@
-# <div align="center">
-
-<br/>
-
 #  **MUHAMMAD NADHIF FASICHUL ILMI** 
 
 <div style="font-size: 18px; margin: 20px 0;">
