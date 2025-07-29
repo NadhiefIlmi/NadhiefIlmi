@@ -128,8 +128,6 @@ console.log(nadhif.currentMission());
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=nadhiefilmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff&sideLabels=ffffff&dates=ffffff" />
-
 </div>
 
 ---
