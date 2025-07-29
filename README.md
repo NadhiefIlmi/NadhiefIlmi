@@ -49,14 +49,6 @@ class Developer {
   currentMission(): string {
     return "Building scalable web applications & modern software solutions 🚀";
   }
-  
-  dailyRoutine(): string {
-    return "I turn coffee into code and ideas into web applications! ☕→💻";
-  }
-  
-  getMotivation(): string {
-    return "Code is poetry, debug is detective work, deploy is magic! ✨";
-  }
 }
 
 const nadhif = new Developer();
