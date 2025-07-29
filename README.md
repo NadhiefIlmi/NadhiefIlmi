@@ -36,7 +36,7 @@
 class Developer {
   name: string = "Muhammad Nadhif Fasichul Ilmi";
   title: string = "Computer Engineering Student";
-  location: string = "Jakarta, Indonesia 🇮🇩";
+  location: string = "Depok, Indonesia 🇮🇩";
   university: string = "Universitas Indonesia";
   
   readonly passions: string[] = [
