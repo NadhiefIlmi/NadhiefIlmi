@@ -1,32 +1,50 @@
-# **MUHAMMAD NADHIF FASICHUL ILMI**
+<h1 align="center">
+  MUHAMMAD NADHIF FASICHUL ILMI
+</h1>
 
-<div style="font-size: 18px; margin: 20px 0;">
+<p align="center">
   <strong>🚀 Software Engineer • 💻 Full-Stack Developer • ⚡ Code Architect</strong>
-</div>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=700\&size=32\&duration=2500\&pause=800\&color=00D9FF\&center=true\&vCenter=true\&width=800\&lines=Building+Tomorrow's+Web+Today+🌐;Crafting+Code+That+Matters+💡;Full-Stack+%7C+Frontend+%7C+Backend+🔥;Turning+Ideas+Into+Reality+✨;Clean+Code+%7C+Modern+Architecture+🏗️)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+Tomorrow's+Web+Today+%F0%9F%8C%90;Crafting+Code+That+Matters+%F0%9F%92%A1;Full-Stack+%7C+Frontend+%7C+Backend+%F0%9F%94%A5;Turning+Ideas+Into+Reality+%E2%9C%A8;Clean+Code+%7C+Modern+Architecture+%F0%9F%8F%97%EF%B8%8F"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-<br/>
+<br>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=nadhiefilmi&style=for-the-badge&color=00d9ff&labelColor=0d1117&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/nadhiefilmi?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/nadhiefilmi?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=TOTAL+STARS"
+    alt="Stars"
+  />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=nadhiefilmi&style=for-the-badge&color=00d9ff&labelColor=0d1117&label=PROFILE+VIEWS" />
+<br>
 
-<img src="https://img.shields.io/github/followers/nadhiefilmi?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=FOLLOWERS" />
-
-<img src="https://img.shields.io/github/stars/nadhiefilmi?style=for-the-badge&color=00d9ff&labelColor=0d1117&label=TOTAL+STARS" />
-
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack+Development-00d9ff?style=for-the-badge&labelColor=0d1117" />
-
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"
+    width="100%"
+    alt="Separator"
+  />
+</p>
 
 ---
 
-## 🎯 **ABOUT THE DEVELOPER**
+# 🎯 ABOUT ME
 
 <div align="center">
 
@@ -51,119 +69,117 @@ class Developer {
 }
 
 const nadhif = new Developer();
+
 console.log(nadhif.currentMission());
 ```
 
 </div>
 
-<br/>
+---
 
-<div align="center">
+# 📊 GITHUB OVERVIEW
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiefilmi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="My Coding Journey" width="100%" />
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nadhiefilmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"
+    height="180"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiefilmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=nadhiefilmi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
-## ⚡ **TECHNOLOGY**
+# ⚡ TECHNOLOGY STACK
 
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-### 🎨 **Frontend Development**
+## 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,js,ts,html,css,tailwind,bootstrap,sass,vite&theme=dark" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind"
+    alt="Frontend Technologies"
+  />
 </p>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-
-<br/><br/>
-
-### 🔧 **Backend Development**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java,cpp,c,go&theme=dark" />
-</p>
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
-
-<br/><br/>
-
-### 🗄️ **Database & Storage**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
-</p>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br/><br/>
-
-### 🛠️ **Developer Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,linux&theme=dark" />
-</p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-</div>
 
 ---
 
-## 📊 **GITHUB ANALYTICS DASHBOARD**
+## 🔧 Backend Development
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadhiefilmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiefilmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
-
-<br/><br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nadhiefilmi&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
-
-</div>
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,express,java,python"
+    alt="Backend Technologies"
+  />
+</p>
 
 ---
 
-## 🤝 **LET'S BUILD SOMETHING AMAZING TOGETHER**
+## 🗄️ Database & Storage
 
-<div align="center">
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"
+    alt="Database Technologies"
+  />
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=💬+Open+for+Collaboration;🚀+Always+Learning;💡+Let's+Create+Impact!" />
+---
 
-<br/><br/>
+## 🛠️ Developer Tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white\&labelColor=0d1117)](https://www.linkedin.com/in/muhammad-nadhif-fasichul-ilmi-98a592327)
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"
+    alt="Developer Tools"
+  />
+</p>
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white\&labelColor=0d1117)](mailto:nadhiefilmi@gmail.com)
+---
 
-<br/><br/>
+# 🚀 WHAT I'M WORKING ON
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+| 💡 Area | 🎯 Focus |
+| --- | --- |
+| 🌐 Web Development | Building modern full-stack applications |
+| ⚙️ Backend | Designing scalable APIs & services |
+| 🎨 Frontend | Creating responsive & intuitive interfaces |
+| 🗄️ Database | Designing efficient data structures |
+| 🧠 Software Engineering | Writing clean & maintainable code |
+| 🚀 Projects | Turning ideas into working products |
 
-### 💫 *"Code is my canvas, logic is my brush, and innovation is my masterpiece"*
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling&fontColor=ffffff" width="100%" />
+# 🤝 LET'S CONNECT
 
-</div>
+<p align="center">
+  <a href="https://github.com/nadhiefilmi">
+    <img
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/nadhiefilmi/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>💫 "Code is my canvas, logic is my brush, and innovation is my masterpiece"</strong>
+</p>
