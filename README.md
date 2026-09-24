@@ -56,9 +56,11 @@ console.log(nadhif.currentMission());
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiefilmi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="Activity Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiefilmi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=My%20Coding%20Journey" alt="My Coding Journey" width="100%" />
 
 </div>
 
@@ -86,12 +88,13 @@ console.log(nadhif.currentMission());
 ### 🔧 **Backend Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java,cpp,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,java,cpp,c,go&theme=dark" />
 </p>
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" />
 
 <br/><br/>
