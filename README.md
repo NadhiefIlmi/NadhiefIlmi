@@ -52,9 +52,6 @@ console.log(nadhif.currentMission());
 ```
 
 </div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nadhiefilmi&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=💻%20My%20Coding%20Journey" alt="Activity Graph" />
 </div>
 
 ---
@@ -106,18 +103,6 @@ console.log(nadhif.currentMission());
 
 ---
 
-## 📊 **GITHUB ANALYTICS DASHBOARD**
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nadhiefilmi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadhiefilmi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff" />
-
-<br/><br/>
-
-</div>
-
----
 
 ## 🤝 **LET'S BUILD SOMETHING AMAZING TOGETHER**
 
@@ -129,8 +114,6 @@ console.log(nadhif.currentMission());
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/muhammad-nadhif-fasichul-ilmi-98a592327)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:nadhiefilmi@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://munavale.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/nadhiefilmi)
 
 <br/>
 
